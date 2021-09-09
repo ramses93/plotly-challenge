@@ -9,3 +9,12 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Analysis
 ### Horizontal Bar Chart
 ![Screenshot](/Screenshots/horizontal-bar.png)
+
+### Bubble Chart
+The bubble chart was created using the D3 Library, displaying each sample:
+![Screenshot](/Screenshots/bubble.png)
+
+
+### Landing Page
+The final landing page looks like the one in the Figure below:
+![Screenshot](/Screenshots/landing.png)
